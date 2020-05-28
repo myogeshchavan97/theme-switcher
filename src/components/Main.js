@@ -2,7 +2,7 @@ import React from 'react';
 
 const Main = () => {
   return (
-    <div>
+    <div className="content">
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium, ab
         porro temporibus neque omnis dignissimos eveniet cupiditate iure nemo
